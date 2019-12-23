@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <ul class="post-list">
+
+      {% for year in page.years reversed %}
+      <h3>{{ year }}</h3>
+        {%- for post in site.posts -%}
+        <li>
+            {%- if post.year==year and post.draft==page.drafts -%}
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <h4>
+              <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="post-meta" itemprop="name">{{ post.authors | escape }}</span> &nbsp; <span style="color: black; font-size:small; border-radius: 25px;
+              border: 1px solid black; padding: 3px; white-space:nowrap">  {{ post.venue }} </span></span>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }} 
+              </a> 
+              <span class="post-meta">{{ post.details }}</span>
+            </h4>
+            {%- endif -%}
+          
+          
+        </li>
+        {%- endfor -%}
+      {%- endfor -%}
+    </ul>
+
+    <p class="feed-subscribe">
+      <a href="{{ 'feed.xml' | relative_url }}">
+        <svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>Subscribe</span>
+      </a>
+    </p>
+  {%- endif -%}
+
+  <br/><br/><br/>
+
+  <h4> IEEE Copyright Notice </h4>
+  <p style="font-size: small"></p> This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therin are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. </p>
+
+  <h4> ACM Copyright Notice </h4>
+  <p style="font-size: small"> Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored. Abstracting with credit is permitted. To copy otherwise, to republish, to post on servers, or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from Publications Dept, ACM Inc., fax +1 (212) 869-0481, or permissions@acm.org. </p>
+
+  <h4> Springer-Verlag LNCS Copyright Notice </h4>
+  <p style="font-size: small"></p> The copyright of these contributions has been transferred to Springer-Verlag Berlin Heidelberg New York. The copyright transfer covers the exclusive right to reproduce and distribute the contribution, including reprints, translations, photographic reproductions, microform, electronic form (offline, online), or any other reproductions of similar nature. </p>
+
+</div>

@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/rv/0001BKT19,
+  author    = {Joshua Schneider and
+               David A. Basin and
+               Srdan Krstic and
+               Dmitriy Traytel},
+  editor    = {Bernd Finkbeiner and
+               Leonardo Mariani},
+  title     = {A Formally Verified Monitor for Metric First-Order Temporal Logic},
+  booktitle = {Runtime Verification - 19th International Conference, {RV} 2019, Porto,
+               Portugal, October 8-11, 2019, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {11757},
+  pages     = {310--328},
+  publisher = {Springer},
+  year      = {2019},
+  url       = {https://doi.org/10.1007/978-3-030-32079-9\_18},
+  doi       = {10.1007/978-3-030-32079-9\_18},
+}

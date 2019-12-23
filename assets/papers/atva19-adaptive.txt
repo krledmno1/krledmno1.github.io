@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/atva/0001BBKT19,
+  author    = {Joshua Schneider and
+               David A. Basin and
+               Frederik Brix and
+               Srdan Krstic and
+               Dmitriy Traytel},
+  editor    = {Yu{-}Fang Chen and
+               Chih{-}Hong Cheng and
+               Javier Esparza},
+  title     = {Adaptive Online First-Order Monitoring},
+  booktitle = {Automated Technology for Verification and Analysis - 17th International
+               Symposium, {ATVA} 2019, Taipei, Taiwan, October 28-31, 2019, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {11781},
+  pages     = {133--150},
+  publisher = {Springer},
+  year      = {2019},
+  url       = {https://doi.org/10.1007/978-3-030-31784-3\_8},
+  doi       = {10.1007/978-3-030-31784-3\_8},
+}

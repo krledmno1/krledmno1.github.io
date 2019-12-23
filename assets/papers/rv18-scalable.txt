@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/rv/SchneiderBBKT18,
+  author    = {Joshua Schneider and
+               David A. Basin and
+               Frederik Brix and
+               Srdan Krstic and
+               Dmitriy Traytel},
+  editor    = {Christian Colombo and
+               Martin Leucker},
+  title     = {Scalable Online First-Order Monitoring},
+  booktitle = {Runtime Verification - 18th International Conference, {RV} 2018, Limassol,
+               Cyprus, November 10-13, 2018, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {11237},
+  pages     = {353--371},
+  publisher = {Springer},
+  year      = {2018},
+  url       = {https://doi.org/10.1007/978-3-030-03769-7\_20},
+  doi       = {10.1007/978-3-030-03769-7\_20},
+}

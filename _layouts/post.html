@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.authors -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.authors | escape }}</span></span>
+      {%- endif -%}</p>
+  </header>
+
+  <h2> Abstract </h2>
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+  {%- if page.pdf -%}
+  {%- if page.draft -%}
+    <span><a href="{{ page.pdf }}"><img src="/assets/images/draft.png" width="50"></a>    </span>
+  {%- else -%}
+    <span><a href="{{ page.pdf }}"><img src="/assets/images/pdf.png" width="50"></a>    </span>
+  {%- endif -%}
+  {%- endif -%}
+  {%- if page.slides -%}
+  <span><a href="{{ page.slides }}"><img src="/assets/images/slides.png" width="50"></a>    </span>
+  {%- endif -%}
+  {%- if page.doi -%}
+  <span><a href="{{ page.doi }}"><img src="/assets/images/doi.png" width="50"></a>    </span>
+  {%- endif -%}
+  {%- if page.bibtex -%}
+  <span><a href="{{ page.bibtex }}"><img src="/assets/images/bibtex.png" width="50"></a>    </span>
+  {%- endif -%}
+  {%- if page.repo -%}
+  <span><a href="{{ page.repo }}"><img src="/assets/images/repo.png" width="50"></a>    </span>
+  {%- endif -%}
+  
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

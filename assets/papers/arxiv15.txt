@@ -1,0 +1,11 @@
+@article{DBLP:journals/corr/GibiliscoK15,
+  author    = {Giovanni Paolo Gibilisco and
+               Srdan Krstic},
+  title     = {InstaCluster: Building {A} Big Data Cluster in Minutes},
+  journal   = {CoRR},
+  volume    = {abs/1508.04973},
+  year      = {2015},
+  url       = {http://arxiv.org/abs/1508.04973},
+  archivePrefix = {arXiv},
+  eprint    = {1508.04973},
+}

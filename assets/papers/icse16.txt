@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/icse/BersaniBGKP16,
+  author    = {Marcello M. Bersani and
+               Domenico Bianculli and
+               Carlo Ghezzi and
+               Srdan Krstic and
+               Pierluigi San Pietro},
+  editor    = {Laura K. Dillon and
+               Willem Visser and
+               Laurie Williams},
+  title     = {Efficient large-scale trace checking using mapreduce},
+  booktitle = {Proceedings of the 38th International Conference on Software Engineering,
+               {ICSE} 2016, Austin, TX, USA, May 14-22, 2016},
+  pages     = {888--898},
+  publisher = {{ACM}},
+  year      = {2016},
+  url       = {https://doi.org/10.1145/2884781.2884832},
+  doi       = {10.1145/2884781.2884832},
+}

@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/rv/BasinKT17a,
+  author    = {David A. Basin and
+               Srdjan Krstic and
+               Dmitriy Traytel},
+  editor    = {Giles Reger and
+               Klaus Havelund},
+  title     = {{AERIAL:} Almost Event-Rate Independent Algorithms for Monitoring
+               Metric Regular Properties},
+  booktitle = {RV-CuBES 2017. An International Workshop on Competitions, Usability,
+               Benchmarks, Evaluation, and Standardisation for Runtime Verification
+               Tools, September 15, 2017, Seattle, WA, {USA}},
+  series    = {Kalpa Publications in Computing},
+  volume    = {3},
+  pages     = {29--36},
+  publisher = {EasyChair},
+  year      = {2017},
+  url       = {http://www.easychair.org/publications/paper/sgWQ},
+}

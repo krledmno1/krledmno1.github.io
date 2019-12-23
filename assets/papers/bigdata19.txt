@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/bigdata/CiavottaKTH19,
+  author    = {Michele Ciavotta and
+               Srdjan Krstic and
+               Damian A. Tamburri and
+               Willem{-}Jan van den Heuvel},
+  editor    = {Elisa Bertino and
+               Carl K. Chang and
+               Peter Chen and
+               Ernesto Damiani and
+               Michael Goul and
+               Katsunori Oyama},
+  title     = {HyperSpark: {A} Data-Intensive Programming Environment for Parallel
+               Metaheuristics},
+  booktitle = {2019 {IEEE} International Congress on Big Data, BigData Congress 2019,
+               Milan, Italy, July 8-13, 2019},
+  pages     = {85--92},
+  publisher = {{IEEE}},
+  year      = {2019},
+  url       = {https://doi.org/10.1109/BigDataCongress.2019.00024},
+  doi       = {10.1109/BigDataCongress.2019.00024},
+}

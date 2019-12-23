@@ -1,0 +1,27 @@
+@article{DBLP:journals/fmsd/SanchezSABBCFFK19,
+  author    = {C{\'{e}}sar S{\'{a}}nchez and
+               Gerardo Schneider and
+               Wolfgang Ahrendt and
+               Ezio Bartocci and
+               Domenico Bianculli and
+               Christian Colombo and
+               Yli{\`{e}}s Falcone and
+               Adrian Francalanza and
+               Srdan Krstic and
+               Jo{\~{a}}o M. Louren{\c{c}}o and
+               Dejan Nickovic and
+               Gordon J. Pace and
+               Jos{\'{e}} Rufino and
+               Julien Signoles and
+               Dmitriy Traytel and
+               Alexander Weiss},
+  title     = {A survey of challenges for runtime verification from advanced application
+               domains (beyond software)},
+  journal   = {Formal Methods in System Design},
+  volume    = {54},
+  number    = {3},
+  pages     = {279--335},
+  year      = {2019},
+  url       = {https://doi.org/10.1007/s10703-019-00337-w},
+  doi       = {10.1007/s10703-019-00337-w},
+}

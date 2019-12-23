@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/icse/BersaniBDGGK14,
+  author    = {Marcello M. Bersani and
+               Domenico Bianculli and
+               Schahram Dustdar and
+               Alessio Gambi and
+               Carlo Ghezzi and
+               Srdan Krstic},
+  editor    = {Muhammad Ali Babar and
+               Hye{-}Young Paik and
+               Malolan Chetlur and
+               Michael Bauer},
+  title     = {Towards the formalization of properties of cloud-based elastic systems},
+  booktitle = {Proceedings of the 6th International Workshop on Principles of Engineering
+               Service-Oriented and Cloud Systems, {PESOS} 2014, Hyderabad, India,
+               May 31, 2014},
+  pages     = {38--47},
+  publisher = {{ACM}},
+  year      = {2014},
+  url       = {https://doi.org/10.1145/2593793.2593798},
+  doi       = {10.1145/2593793.2593798},
+}

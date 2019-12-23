@@ -1,0 +1,14 @@
+@article{DBLP:journals/fmsd/BasinBKT19,
+  author    = {David A. Basin and
+               Bhargav Nagaraja Bhatt and
+               Srdan Krstic and
+               Dmitriy Traytel},
+  title     = {Almost event-rate independent monitoring},
+  journal   = {Formal Methods in System Design},
+  volume    = {54},
+  number    = {3},
+  pages     = {449--478},
+  year      = {2019},
+  url       = {https://doi.org/10.1007/s10703-018-00328-3},
+  doi       = {10.1007/s10703-018-00328-3},
+}
