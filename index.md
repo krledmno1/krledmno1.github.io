@@ -8,23 +8,28 @@
 layout: page 
 ---
 
-<img src="/assets/images/me.jpg" alt="Srdan Krstic" width="200" style="float: right"/>
 
-<img src="/assets/images/logo-ethz.png" alt="ETHZ" width="200"/>
-
-Information Security Group  
-Institute of Information Security  
-Department of Computer Science  
-ETH Zürich  
-CNB F 109.2 (1st Floor, Building CNB)  
-Universitätstrasse 6  
-8092 Zürich  
-Switzerland  
-Phone: +41 44 632 93 28  
-Email: srdan.krstic \|\|AT\|\| inf.ethz.ch  
+<img src="/assets/images/logo-ethz.png" alt="ETHZ" width="30%"/>
 
 
-{% for i in (1..1) %}  
+<p style="font-size: calc(7px + .5vw)">
+Computer Science Department <br/>
+Institute of Information Security  <br/>
+Information Security Group  <br/>
+</p>
+
+<img src="/assets/images/me.jpg" alt="Srdan Krstic" width="25%" style="float: right"/>
+
+<p style="width: 80%">
+🚪 CNB F 107.2 <br/>
+📮 Universitätstrasse 6  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8092 Zürich  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Switzerland  <br/> 
+📞 +41 44 632 93 28  <br/>
+📧 srdan.krstic \|\|AT\|\| inf.ethz.ch  <br/>
+</p>
+
+{% for i in (1..3) %}  
 &nbsp; 
 {% endfor %}
 
