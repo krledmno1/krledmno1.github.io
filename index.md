@@ -26,7 +26,8 @@ Information Security Group  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8092 Zürich  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Switzerland  <br/> 
 📞 +41 44 632 93 28  <br/>
-📧 srdan.krstic \|\|AT\|\| inf.ethz.ch  <br/>
+📧 <a href="https://mailhide.io/e/ZcpTv" onclick="mailhidepopup=window.open('https://mailhide.io/e/ZcpTv','mailhidepopup','width=580,height=635'); return false;">s......@inf.ethz.ch</a> (Work) <a href="assets/ethz.asc"> PGP Key </a> <br/>
+📧  <a href="https://mailhide.io/e/Kf8r5" onclick="mailhidepopup=window.open('https://mailhide.io/e/Kf8r5','mailhidepopup','width=580,height=635'); return false;">k......@gmail.com</a> (Personal) <a href="assets/gmail.asc" target="_self"> PGP Key </a> <br/>
 </p>
 
 {% for i in (1..3) %}  
