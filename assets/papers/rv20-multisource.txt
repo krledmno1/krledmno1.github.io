@@ -1,0 +1,6 @@
+@misc{Schneider-rv20,
+  title={Scalable Online Monitoring of Distributed Systems},
+  author={Basin, David and Grass, Mattheiu and Krsti{\'c}, Sr{\dj}an and  Schneider, Joshua},
+  howpublished =  {Submitted at 20th International Conference on Runtime Verification (RV)},
+  year={2020},
+}

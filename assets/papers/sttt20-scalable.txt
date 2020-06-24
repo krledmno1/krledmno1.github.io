@@ -1,0 +1,6 @@
+@misc{Schneider-sttt20,
+  title={Scalable Online Monitoring of Distributed Systems},
+  author={Joshua Schneider, David Basin, Frederik Brix, Sr{\dj}an Krsti{\'c}, Dmitriy Traytel},
+  howpublished =  {Submitted to the Journal of Software Tools for Technology Transfer (STTT).},
+  year={2020},
+}

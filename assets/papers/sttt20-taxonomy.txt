@@ -1,0 +1,6 @@
+@misc{Falcone-sttt20,
+  title={A Taxonomy for Classifying Runtime Verification Tools},
+  author={Yli{\`{e}}s Falcone, Sr{\dj}an Krsti{\'c}, Giles Reger, Dmitriy Traytel},
+  howpublished =  {Submitted to the Journal of Software Tools for Technology Transfer (STTT).},
+  year={2020},
+}

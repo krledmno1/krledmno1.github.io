@@ -1,0 +1,6 @@
+@misc{Krstic-rv20,
+  title={A Benchmark Generator for Online First-Order Monitoring},
+  author={Krsti{\'c}, Sr{\dj}an and  Schneider, Joshua},
+  howpublished =  {Submitted at 20th International Conference on Runtime Verification (RV)},
+  year={2020},
+}
