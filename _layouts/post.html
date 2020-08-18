@@ -32,6 +32,12 @@ layout: default
   {%- if page.doi -%}
   <span><a href="{{ page.doi }}"><img src="/assets/images/doi.png" width="50"></a>    </span>
   {%- endif -%}
+  {%- if page.formalization -%}
+  <span><a href="{{ page.formalization }}"><img src="/assets/images/formalization.png" width="50"></a>    </span>
+  {%- endif -%}
+  {%- if page.artifact -%}
+  <span><a href="{{ page.artifact }}"><img src="/assets/images/artifact.png" width="50"></a>    </span>
+  {%- endif -%}
   {%- if page.video -%}
   <span><a href="{{ page.video }}"><img src="/assets/images/video.png" width="50"></a>    </span>
   {%- endif -%}
