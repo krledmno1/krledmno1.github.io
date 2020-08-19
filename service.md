@@ -52,6 +52,7 @@ Below is a list of students I (co)supervised and a list of events I organized, p
 - [RV19](https://www.react.uni-saarland.de/rv2019/pc.html) (Reviewer)
 - [RV18 - Benchmark challenge](https://www.springer.com/gp/book/9783030037680) (PC member)
 - [CAV18](http://cavconference.org/2018/) (Reviewer)
+- [RSP17](https://www.w3.org/community/rsp/rsp-workshop-2017/) (PC member)
 - [SEAMS15](http://www.disim.univaq.it/seams2015/) (Reviewer)
 - [ESEC/FSE15](http://esec-fse15.dei.polimi.it/) (Student volunteer)
 - Reviewer for [STTT](https://www.springer.com/journal/10009), [TSE](https://www.computer.org/csdl/journal/ts), [SCICO](https://www.journals.elsevier.com/science-of-computer-programming), and [ESE](https://www.springer.com/journal/10664) journals on multiple occasions
