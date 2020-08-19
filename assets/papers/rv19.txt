@@ -1,7 +1,7 @@
 @inproceedings{DBLP:conf/rv/0001BKT19,
   author    = {Joshua Schneider and
                David A. Basin and
-               Srdan Krstic and
+               Sr{\dj}an Krsti{\'c} and
                Dmitriy Traytel},
   editor    = {Bernd Finkbeiner and
                Leonardo Mariani},

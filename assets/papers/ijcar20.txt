@@ -2,7 +2,7 @@
   author    = {David A. Basin and
                Thibault Dardinier and
                Lukas Heimes and
-               Srdan Krstic and
+               Sr{\dj}an Krsti{\'c} and
                Martin Raszyk and
                Joshua Schneider and
                Dmitriy Traytel},

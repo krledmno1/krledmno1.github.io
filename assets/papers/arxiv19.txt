@@ -1,0 +1,25 @@
+@article{DBLP:journals/corr/abs-1902-03776,
+  author    = {Wolfgang Ahrendt and
+               Cyrille Artho and
+               Christian Colombo and
+               Yli{\`{e}}s Falcone and
+               Sr{\dj}an Krsti{\'c} and
+               Martin Leucker and
+               Florian Lorber and
+               Jo{\~{a}}o M. Louren{\c{c}}o and
+               Leonardo Mariani and
+               C{\'{e}}sar S{\'{a}}nchez and
+               Gerardo Schneider and
+               Volker Stolz},
+  title     = {{COST} Action {IC} 1402 ArVI: Runtime Verification Beyond Monitoring
+               - Activity Report of Working Group 1},
+  journal   = {CoRR},
+  volume    = {abs/1902.03776},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1902.03776},
+  archivePrefix = {arXiv},
+  eprint    = {1902.03776},
+  timestamp = {Mon, 18 Nov 2019 10:38:21 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1902-03776.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

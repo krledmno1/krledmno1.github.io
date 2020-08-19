@@ -1,6 +1,6 @@
 @inproceedings{DBLP:conf/rv/BasinKT17a,
   author    = {David A. Basin and
-               Srdjan Krstic and
+               Sr{\dj}an Krsti{\'c} and
                Dmitriy Traytel},
   editor    = {Giles Reger and
                Klaus Havelund},

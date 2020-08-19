@@ -1,0 +1,5 @@
+@misc{rvbc18,
+  title = {{Runtime Verification Benchmark Challenge} - FOStreams Benchmark},
+  year = {2018},
+  howpublished = {\url{https://github.com/runtime-verification/benchmark-challenge-2018}}
+}

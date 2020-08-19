@@ -1,7 +1,7 @@
 @inproceedings{DBLP:conf/sefm/BianculliGK14,
   author    = {Domenico Bianculli and
                Carlo Ghezzi and
-               Srdan Krstic},
+               Sr{\dj}an Krsti{\'c}},
   editor    = {Dimitra Giannakopoulou and
                Gwen Sala{\"{u}}n},
   title     = {Trace Checking of Metric Temporal Logic with Aggregating Modalities

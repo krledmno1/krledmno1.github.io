@@ -4,7 +4,7 @@
                Schahram Dustdar and
                Alessio Gambi and
                Carlo Ghezzi and
-               Srdan Krstic},
+               Sr{\dj}an Krsti{\'c}},
   editor    = {Muhammad Ali Babar and
                Hye{-}Young Paik and
                Malolan Chetlur and

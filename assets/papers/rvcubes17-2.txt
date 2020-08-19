@@ -1,6 +1,6 @@
 @inproceedings{DBLP:conf/rv/BianculliK17,
   author    = {Domenico Bianculli and
-               Srdjan Krstic},
+               Sr{\dj}an Krsti{\'c}},
   editor    = {Giles Reger and
                Klaus Havelund},
   title     = {On the Risk of Tool Over-tuning in Run-time Verification Competitions

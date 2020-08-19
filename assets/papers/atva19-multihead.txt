@@ -1,7 +1,7 @@
 @inproceedings{DBLP:conf/atva/RaszykBKT19,
   author    = {Martin Raszyk and
-               David A. Basin and
-               Srdan Krstic and
+               David Basin and
+               Sr{\dj}an Krsti{\'c} and
                Dmitriy Traytel},
   editor    = {Yu{-}Fang Chen and
                Chih{-}Hong Cheng and

@@ -1,6 +1,6 @@
 @inproceedings{DBLP:conf/rv/FalconeKRT18,
   author    = {Yli{\`{e}}s Falcone and
-               Srdan Krstic and
+               Sr{\dj}an Krsti{\'c} and
                Giles Reger and
                Dmitriy Traytel},
   editor    = {Christian Colombo and

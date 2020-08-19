@@ -1,6 +1,6 @@
 @inproceedings{DBLP:conf/bigdata/CiavottaKTH19,
   author    = {Michele Ciavotta and
-               Srdjan Krstic and
+               Sr{\dj}an Krsti{\'c} and
                Damian A. Tamburri and
                Willem{-}Jan van den Heuvel},
   editor    = {Elisa Bertino and

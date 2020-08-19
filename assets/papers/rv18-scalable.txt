@@ -2,7 +2,7 @@
   author    = {Joshua Schneider and
                David A. Basin and
                Frederik Brix and
-               Srdan Krstic and
+               Sr{\dj}an Krsti{\'c} and
                Dmitriy Traytel},
   editor    = {Christian Colombo and
                Martin Leucker},
