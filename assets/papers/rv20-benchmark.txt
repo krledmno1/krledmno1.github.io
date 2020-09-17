@@ -1,6 +1,10 @@
-@misc{Krstic-rv20,
+@inproceedings{Krstic-rv20,
   title={A Benchmark Generator for Online First-Order Monitoring},
   author={Krsti{\'c}, Sr{\dj}an and  Schneider, Joshua},
-  howpublished =  {Submitted at 20th International Conference on Runtime Verification (RV)},
+  booktitle = {{RV} 2020},
+  series    = {LNCS},
+  publisher = {Springer},
+  editor = {Jyotirmoy Deshmukh and Dejan Ni\v{c}kovi\'c},
+  note = {To appear.},
   year={2020},
 }
