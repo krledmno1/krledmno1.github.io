@@ -15,6 +15,15 @@ Below is a list of students I (co)supervised and a list of events I organized, p
 
 ### Students 
 
+
+- Valeria Jannelli: <br>
+  **White-Box Parallel Monitor for Metric First Order Temporal Logic**
+  (BSc thesis)
+
+- Stefan Zemljic: <br>
+  **Monitoring Subledger Accounting with Metric First-Order Temporal Logic**
+  (BSc thesis)
+
 - François Hublet: <br>
   **Monitoring Unsafe First-order Formulas**
   (Semester project)
