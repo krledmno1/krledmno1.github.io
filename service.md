@@ -15,6 +15,9 @@ Below is a list of students I (co)supervised and a list of events I organized, p
 
 ### Students 
 
+- François Hublet: <br>
+  **A Prototype Implementation of the "Databank Model"**
+  (MSc thesis)
 
 - Valeria Jannelli: <br>
   **White-Box Parallel Monitor for Metric First Order Temporal Logic**
