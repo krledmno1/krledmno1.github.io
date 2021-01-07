@@ -57,6 +57,7 @@ Below is a list of students I (co)supervised and a list of events I organized, p
 
 ### Events
 
+- [FormaliSE21](https://www.formalise.org/) (PC member)
 - [OOPSLA20 - Artifact evaluation](https://2020.splashcon.org/track/splash-2020-oopsla) (AEC member)
 - [FormaliSE20](https://www.formalise.org/) (Organizer)
 - [RV20](https://rv20.ait.ac.at/) (Reviewer)

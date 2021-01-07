@@ -11,7 +11,7 @@ permalink: /tools/
 
 ---
 
-- [RV Benchmark Generator](https://hub.docker.com/repository/docker/infsec/benchmark/)
+- [RV Benchmark Generator](https://hub.docker.com/r/infsec/benchmark)
 - [Verimon](https://bitbucket.org/jshs/monpoly/)
 - [MonPoly](https://bitbucket.org/monpoly/monpoly/)
 - [Hydra](https://bitbucket.org/krle/hydra/)
