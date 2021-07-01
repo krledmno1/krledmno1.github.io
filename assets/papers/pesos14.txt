@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/icse/BersaniBDGGK14,
+@inproceedings{BersaniBDGGK14,
   author    = {Marcello M. Bersani and
                Domenico Bianculli and
                Schahram Dustdar and

@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/rv/SchneiderBBKT18,
+@inproceedings{SchneiderBBKT18,
   author    = {Joshua Schneider and
                David A. Basin and
                Frederik Brix and

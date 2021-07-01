@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/sefm/BianculliGK14,
+@inproceedings{BianculliGK14,
   author    = {Domenico Bianculli and
                Carlo Ghezzi and
                Sr{\dj}an Krsti{\'c}},

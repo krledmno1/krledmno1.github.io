@@ -15,6 +15,22 @@ Below is a list of students I (co)supervised and a list of events I organized, p
 
 ### Students 
 
+<!-- - François Hublet: <br>
+  **TBD**
+  (PhD thesis) 
+  
+  - Martin Raszyk: <br>
+  **Big Data Monitoring**
+  (PhD thesis) -->
+
+- Gigon Almada e Melo Artur: <br>
+  **User-friendly Monitoring**
+  (MSc thesis)
+
+- Nicolas Kaletsch: <br>
+  **Formalizing Typing Rules for VeriMon**
+  (BSc thesis)
+
 - François Hublet: <br>
   **A Prototype Implementation of the "Databank Model"**
   (MSc thesis)

@@ -1,4 +1,4 @@
-@article{DBLP:journals/corr/GibiliscoK15,
+@article{corr/GibiliscoK15,
   author    = {Giovanni Paolo Gibilisco and
                Sr{\dj}an Krsti{\'c}},
   title     = {InstaCluster: Building {A} Big Data Cluster in Minutes},

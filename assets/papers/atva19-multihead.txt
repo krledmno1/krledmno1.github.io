@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/atva/RaszykBKT19,
+@inproceedings{RaszykBKT19,
   author    = {Martin Raszyk and
                David Basin and
                Sr{\dj}an Krsti{\'c} and

@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/atva/0001BBKT19,
+@inproceedings{0001BBKT19,
   author    = {Joshua Schneider and
                David A. Basin and
                Frederik Brix and

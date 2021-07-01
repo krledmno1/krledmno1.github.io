@@ -1,4 +1,4 @@
-@article{DBLP:journals/fmsd/SanchezSABBCFFK19,
+@article{SanchezSABBCFFK19,
   author    = {C{\'{e}}sar S{\'{a}}nchez and
                Gerardo Schneider and
                Wolfgang Ahrendt and

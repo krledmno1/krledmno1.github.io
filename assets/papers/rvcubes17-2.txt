@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/rv/BianculliK17,
+@inproceedings{BianculliK17,
   author    = {Domenico Bianculli and
                Sr{\dj}an Krsti{\'c}},
   editor    = {Giles Reger and

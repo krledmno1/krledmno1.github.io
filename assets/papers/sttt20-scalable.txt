@@ -1,6 +1,15 @@
-@article{Schneider-sttt20,
-  title   = {Scalable Online First-Order Monitoring},
-  author  = {Joshua Schneider, David Basin, Frederik Brix, Sr{\dj}an Krsti{\'c}, Dmitriy Traytel},
-  journal =  {Journal of Software Tools for Technology Transfer (STTT).},
-  year    = {2020},
+@article{SchneiderBBKT21,
+  author    = {Joshua Schneider and
+               David A. Basin and
+               Frederik Brix and
+               Sr{\dj}an Krsti{\'c} and
+               Dmitriy Traytel},
+  title     = {Scalable online first-order monitoring},
+  journal   = {Int. J. Softw. Tools Technol. Transf.},
+  volume    = {23},
+  number    = {2},
+  pages     = {185--208},
+  year      = {2021},
+  url       = {https://doi.org/10.1007/s10009-021-00607-1},
+  doi       = {10.1007/s10009-021-00607-1},
 }

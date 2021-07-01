@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/rv/BasinKT17a,
+@inproceedings{BasinKT17a,
   author    = {David A. Basin and
                Sr{\dj}an Krsti{\'c} and
                Dmitriy Traytel},

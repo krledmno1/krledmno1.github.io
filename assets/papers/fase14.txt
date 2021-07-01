@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/fase/BersaniBGKP14,
+@inproceedings{BersaniBGKP14,
   author    = {Marcello Maria Bersani and
                Domenico Bianculli and
                Carlo Ghezzi and

@@ -1,4 +1,4 @@
-@article{DBLP:journals/fmsd/BasinBKT19,
+@article{BasinBKT19,
   author    = {David A. Basin and
                Bhargav Nagaraja Bhatt and
                Sr{\dj}an Krsti{\'c} and

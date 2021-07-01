@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/icse/BersaniBGKP16,
+@inproceedings{BersaniBGKP16,
   author    = {Marcello M. Bersani and
                Domenico Bianculli and
                Carlo Ghezzi and

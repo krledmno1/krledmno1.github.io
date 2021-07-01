@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/cade/BasinDHKR0T20,
+@inproceedings{BasinDHKR0T20,
   author    = {David A. Basin and
                Thibault Dardinier and
                Lukas Heimes and

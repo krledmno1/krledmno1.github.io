@@ -1,10 +1,18 @@
-@inproceedings{Schneider-rv20,
-  title={Scalable Online Monitoring of Distributed Systems},
-  author={Basin, David and Gras, Mattheiu and Krsti{\'c}, Sr{\dj}an and  Schneider, Joshua},
-  booktitle = {{RV} 2020},
-  series    = {LNCS},
+@inproceedings{BasinGKS20,
+  author    = {David A. Basin and
+               Matthieu Gras and
+               Sr{\dj}an Krsti{\'c} and
+               Joshua Schneider},
+  editor    = {Jyotirmoy Deshmukh and
+               Dejan Nickovic},
+  title     = {Scalable Online Monitoring of Distributed Systems},
+  booktitle = {Runtime Verification - 20th International Conference, {RV} 2020, Los
+               Angeles, CA, USA, October 6-9, 2020, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {12399},
+  pages     = {197--220},
   publisher = {Springer},
-  editor = {Jyotirmoy Deshmukh and Dejan Ni\v{c}kovi\'c},
-  note = {To appear.},
-  year={2020},
+  year      = {2020},
+  url       = {https://doi.org/10.1007/978-3-030-60508-7\_11},
+  doi       = {10.1007/978-3-030-60508-7\_11},
 }

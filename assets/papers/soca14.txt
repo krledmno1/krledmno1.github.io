@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/soca/BianculliGKP14,
+@inproceedings{BianculliGKP14,
   author    = {Domenico Bianculli and
                Carlo Ghezzi and
                Sr{\dj}an Krsti{\'c} and

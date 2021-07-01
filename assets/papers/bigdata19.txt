@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/bigdata/CiavottaKTH19,
+@inproceedings{CiavottaKTH19,
   author    = {Michele Ciavotta and
                Sr{\dj}an Krsti{\'c} and
                Damian A. Tamburri and

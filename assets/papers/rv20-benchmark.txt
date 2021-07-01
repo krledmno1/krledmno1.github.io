@@ -1,10 +1,16 @@
-@inproceedings{Krstic-rv20,
-  title={A Benchmark Generator for Online First-Order Monitoring},
-  author={Krsti{\'c}, Sr{\dj}an and  Schneider, Joshua},
-  booktitle = {{RV} 2020},
-  series    = {LNCS},
+@inproceedings{KrsticS20,
+  author    = {Sr{\dj}an Krsti{\'c} and
+               Joshua Schneider},
+  editor    = {Jyotirmoy Deshmukh and
+               Dejan Nickovic},
+  title     = {A Benchmark Generator for Online First-Order Monitoring},
+  booktitle = {Runtime Verification - 20th International Conference, {RV} 2020, Los
+               Angeles, CA, USA, October 6-9, 2020, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {12399},
+  pages     = {482--494},
   publisher = {Springer},
-  editor = {Jyotirmoy Deshmukh and Dejan Ni\v{c}kovi\'c},
-  note = {To appear.},
-  year={2020},
+  year      = {2020},
+  url       = {https://doi.org/10.1007/978-3-030-60508-7\_27},
+  doi       = {10.1007/978-3-030-60508-7\_27},
 }

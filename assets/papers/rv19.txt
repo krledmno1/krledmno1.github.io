@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/rv/0001BKT19,
+@inproceedings{0001BKT19,
   author    = {Joshua Schneider and
                David A. Basin and
                Sr{\dj}an Krsti{\'c} and

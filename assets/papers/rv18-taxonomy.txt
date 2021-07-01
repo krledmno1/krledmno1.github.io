@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/rv/FalconeKRT18,
+@inproceedings{FalconeKRT18,
   author    = {Yli{\`{e}}s Falcone and
                Sr{\dj}an Krsti{\'c} and
                Giles Reger and

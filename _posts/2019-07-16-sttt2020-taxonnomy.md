@@ -1,13 +1,13 @@
 ---
 layout: post
-year: 2020
+year: 2021
 venue: journal paper
 title: A Taxonomy for Classifying Runtime Verification Tools
 authors: Yliès Falcone, Srđan Krstić, Giles Reger, Dmitriy Traytel
 details: In Journal of Software Tools for Technology Transfer (STTT).
 pdf: /assets/papers/sttt20-taxonomy.pdf
 slides: 
-doi: 
+doi: https://doi.org/10.1007/s10009-021-00609-z
 bibtex: /assets/papers/sttt20-taxonomy.txt
 ---
 
