@@ -34,7 +34,7 @@ Information Security Group  <br/>
 &nbsp; 
 {% endfor %}
 
-As of May 2020, I am a senior researcher (Oberassistent) in the [Information Security group](https://infsec.ethz.ch) led by prof. [David Basin](https://www.inf.ethz.ch/personal/basin/) at [ETH Zürich](https://ethz.ch/de.html). Previously I was a postdoctoral researcher in the same group. I have obtained my PhD in 2016 at the [DeepSE research group](http://deepse.dei.polimi.it/) at [Politecnico di Milano](https://www.polimi.it/) under prof. [Carlo Ghezzi](http://home.deib.polimi.it/ghezzi/)'s supervision. I have obtained my BSc degree in Electrical Engineering and Computer Science at the [Faculty of Electronic Engineering Niš](http://old.elfak.ni.ac.rs/en) and my MSc degree in Engineering Computing Systems at Politecnico di Milano. 
+As of May 2020, I am a senior researcher (Oberassistent) in the [Information Security group](https://infsec.ethz.ch) led by prof. [David Basin](https://www.inf.ethz.ch/personal/basin/) at [ETH Zürich](https://ethz.ch/en.html). Previously I was a postdoctoral researcher in the same group. I have obtained my PhD in 2016 at the [DeepSE research group](http://deepse.dei.polimi.it/) at [Politecnico di Milano](https://www.polimi.it/en) under prof. [Carlo Ghezzi](http://home.deib.polimi.it/ghezzi/)'s supervision. I have obtained my BSc degree in Electrical Engineering and Computer Science at the [Faculty of Electronic Engineering Niš](https://www.elfak.ni.ac.rs/en/) and my MSc degree in Engineering Computing Systems at Politecnico di Milano. 
 My main research interests include developing techniques and methodologies that enable specification and verification of complex software systems. 
 
 Students interested in these fields are welcome to send me an email.
