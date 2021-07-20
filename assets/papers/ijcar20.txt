@@ -1,5 +1,5 @@
 @inproceedings{BasinDHKR0T20,
-  author    = {David A. Basin and
+  author    = {David Basin and
                Thibault Dardinier and
                Lukas Heimes and
                Sr{\dj}an Krsti{\'c} and

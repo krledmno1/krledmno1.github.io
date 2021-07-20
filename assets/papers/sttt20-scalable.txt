@@ -1,6 +1,6 @@
 @article{SchneiderBBKT21,
   author    = {Joshua Schneider and
-               David A. Basin and
+               David Basin and
                Frederik Brix and
                Sr{\dj}an Krsti{\'c} and
                Dmitriy Traytel},

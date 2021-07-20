@@ -1,5 +1,5 @@
 @inproceedings{BasinGKS20,
-  author    = {David A. Basin and
+  author    = {David Basin and
                Matthieu Gras and
                Sr{\dj}an Krsti{\'c} and
                Joshua Schneider},

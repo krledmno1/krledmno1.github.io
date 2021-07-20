@@ -1,5 +1,5 @@
 @inproceedings{BasinKT17a,
-  author    = {David A. Basin and
+  author    = {David Basin and
                Sr{\dj}an Krsti{\'c} and
                Dmitriy Traytel},
   editor    = {Giles Reger and

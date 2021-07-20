@@ -1,0 +1,5 @@
+@article{rkdb-practical,
+  author    = {Martin Raszyk and David Basin and Sr{\dj}an Krsti{\'c} and Dmitriy Traytel},
+  title     = {Practical Relational Calculus Query Evaluation},
+  year      = {2022},
+}
