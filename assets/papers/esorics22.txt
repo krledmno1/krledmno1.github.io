@@ -1,0 +1,5 @@
+@article{enforce,
+  author    = {Fran\c{c}ois Hublet and Sr\dj{}an Krsti\'c and David Basin},
+  title     = {Verified First-Order Monitoring with Recursive Rules},
+  year      = {2022},
+}

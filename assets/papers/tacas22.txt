@@ -1,0 +1,6 @@
+@article{letrec-tacas,
+  author    = {Sheila Zingg and Sr\dj{}an Krsti\'c and Martin Raszyk and Joshua Schneider and Dmitriy Traytel},
+  title     = {Verified First-Order Monitoring with Recursive Rules},
+booktitle = {28th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)},
+  year      = {2022},
+}
