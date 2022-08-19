@@ -1,5 +1,10 @@
 @article{enforce,
   author    = {Fran\c{c}ois Hublet and Sr\dj{}an Krsti\'c and David Basin},
+  editor    = {Vijay Atluri and  Roberto di Pietro and Christian D. Jensen and Weizhi Meng}
   title     = {Verified First-Order Monitoring with Recursive Rules},
+  booktitle = {27th European Symposium on Research
+               in Computer Security ({ESORICS})},
+  series    = {LNCS},
+  publisher = {Springer},
   year      = {2022},
 }
