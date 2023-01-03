@@ -15,13 +15,33 @@ Below is a list of students I (co)supervised and a list of events I organized, p
 
 ### Students 
 
-<!-- - François Hublet: <br>
-  **TBD**
+- Jeniffer Lima Graf <br>
+  **Monitoring Complex Data Types**
+  (Semester project)
+
+- Matthieu Gras: <br>
+  **Explicit vs Implicit Monitoring**
+  (MSc thesis)
+
+- Remo Zumsteg <br>
+  **Monitoring Complex Data Types**
+  (BSc thesis)
+
+- Matthieu Gras: <br>
+  **Linux Kernel Monitoring**
+  (Semester project)
+
+- Hoàng Nguyễn Phước: <br>
+  **Model-driven Privacy**
+  (PhD thesis) 
+
+- François Hublet: <br>
+  **Enforcement of Temporal Information-flow Policies**
   (PhD thesis) 
   
-  - Martin Raszyk: <br>
-  **Big Data Monitoring**
-  (PhD thesis) -->
+- Martin Raszyk: <br>
+  **Efficient, Expressive, and Verified Temporal Query Evaluation**
+  (PhD thesis)
 
 - Gigon Almada e Melo Artur: <br>
   **User-friendly Monitoring**
@@ -64,7 +84,7 @@ Below is a list of students I (co)supervised and a list of events I organized, p
   (MSc thesis)
 
 - Joshua Schneider:  <br>
-  **Monitoring at Any Cost**
+  **Scalable and Trustworthy Monitoring**
   (Phd thesis)
 
 - Nemanja Stolić: <br>

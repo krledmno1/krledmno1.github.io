@@ -1,0 +1,10 @@
+@inproceedings{BersaniBGKP14,
+  author    = {David Basin and Daniel Stefan Dietiker and Sr{\dj}an Krsti{\'c} and  Yvonne-Anne Pignolet and  Martin Raszyk and  Joshua Schneider and  Arshavir
+Ter-Gabrielyan},
+  editor    = {Joost-Pieter Katoen and Marsha Chechik},
+  title     = {Monitoring the Internet Computer},
+  booktitle = {Formal Methods - 25th International Symposium, {FM}},
+  series    = {Lecture Notes in Computer Science},
+  publisher = {Springer},
+  year      = {2023},
+}
