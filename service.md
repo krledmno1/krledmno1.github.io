@@ -15,12 +15,36 @@ Below is a list of students I (co)supervised and a list of events I organized, p
 
 ### Students 
 
+- Alexander Kvamme <br>
+  **A Formal, Comprehensive, and Enforceable GDPR Specification**
+  (MSc thesis)
+
+- Jeniffer Lima Graf <br>
+  **Signature Inference for Monitoring Structured Logs**
+  (MSc thesis)
+
+- Matthias Lott <br>
+  **Temporal Data Golf**
+  (BSc thesis)
+
+- Daniel Gradwohl <br>
+  **Model Transformations for Privacy-by-design**
+  (BSc thesis)
+
+- Karlo Piskor <br>
+  **Secure Object-Relational Mappers**
+  (BSc thesis)
+
+- Berkay Aydogdu <br>
+  **Monitoring using Differential Datalog**
+  (BSc thesis)
+
 - Jeniffer Lima Graf <br>
   **Monitoring Complex Data Types**
   (Semester project)
 
 - Matthieu Gras: <br>
-  **Explicit vs Implicit Monitoring**
+  **Explicit versus Implicit Monitoring**
   (MSc thesis)
 
 - Remo Zumsteg <br>
