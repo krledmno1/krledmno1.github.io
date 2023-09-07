@@ -1,0 +1,14 @@
+@inproceedings{BKST23,
+  author    = {David Basin and Sr{\dj}an Krsti{\'c} and Joshua Schneider and Dmitriy Traytel},
+  editor    = {Jun Sun and Étienne André},
+  title     = {Correct and Efficient Policy Monitoring, a Retrospective},
+  booktitle    = {20th International
+                  Symposium on Automated Technology for Verification and Analysis ({ATVA}) 2023},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {},
+  pages        = {},
+  publisher    = {Springer},
+  year         = {2023},
+  url          = {},
+  doi          = {},
+}

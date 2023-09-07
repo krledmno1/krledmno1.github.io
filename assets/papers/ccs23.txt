@@ -1,0 +1,13 @@
+@inproceedings{BGKNO23,
+  author    = {David Basin and Juan Guarnizo and Sr{\dj}an Krsti{\'c} and Hoang Nguyen and Mart\'{i}n Ochoa},
+  editor    = {Cas Cremers and Engin Kirda},
+  title     = {Is Modeling Access Control Worth It?},
+  booktitle    = {{ACM} {SIGSAC} Conference on Computer and
+                  Communications Security, {CCS}}
+  volume       = {},
+  pages        = {},
+  publisher    = {{ACM}},
+  year         = {2023},
+  url          = {},
+  doi          = {},
+}

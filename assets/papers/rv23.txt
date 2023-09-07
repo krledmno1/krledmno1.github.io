@@ -1,0 +1,13 @@
+@inproceedings{LGKS23,
+  author    = {Jeniffer Lima Graf and Sr{\dj}an Krsti{\'c} and Joshua Schneider},
+  editor    = {Panagiotis Katsaros and Laura Nenzi},
+  title     = {Metric First-order Temporal Logic with Complex Data Types},
+  booktitle    = {23nd International Conference on Runtime Verification ({RV})}
+  series       = {Lecture Notes in Computer Science},
+  volume       = {},
+  pages        = {},
+  publisher    = {Springer},
+  year         = {2023},
+  url          = {},
+  doi          = {},
+}

@@ -1,0 +1,13 @@
+@inproceedings{HBK23,
+  author    = {Fran\c{c}ois Hublet and David Basin and Sr{\dj}an Krsti{\'c}},
+  editor    = {Mauro Conti and Gene Tsudik},
+  title     = {Enforcing the GDPR},
+  booktitle    = {28th European Symposium on Research in Computer Security ({ESORICS})}
+  volume       = {},
+  pages        = {},
+  series       = {Lecture Notes in Computer Science},
+  publisher    = {Springer},
+  year         = {2023},
+  url          = {},
+  doi          = {},
+}
