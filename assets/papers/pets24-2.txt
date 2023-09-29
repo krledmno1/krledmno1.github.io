@@ -1,0 +1,12 @@
+@article{KNB24,
+  author    = {Sr{\dj}an Krsti{\'c}, Hoang Nguyen, David Basin},
+  title     = {Model-driven Privacy},
+  journal      = {Proc. Priv. Enhancing Technol.},
+  volume       = {2024},
+  number       = {1},
+  pages        = {},
+  publisher    = {{ACM}},
+  year         = {2024},
+  url          = {},
+  doi          = {},
+}

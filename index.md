@@ -21,7 +21,7 @@ Information Security Group  <br/>
 <img src="/assets/images/me.jpg" alt="Srdan Krstic" width="25%" style="float: right"/>
 
 <p style="width: 80%">
-🚪 CNB F 107.2 <br/>
+🚪 <a href="https://ethz.ch/en/utils/location.html?building=CNB&floor=F&room=109.2"> CNB F 109.2 </a> <br/>
 📮 Universitätstrasse 6  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8092 Zürich  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Switzerland  <br/> 
