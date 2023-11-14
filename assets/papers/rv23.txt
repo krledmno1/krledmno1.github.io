@@ -5,7 +5,7 @@
   booktitle    = {23nd International Conference on Runtime Verification ({RV})}
   series       = {Lecture Notes in Computer Science},
   volume       = {},
-  pages        = {},
+  pages        = {126--147},
   publisher    = {Springer},
   year         = {2023},
   url          = {},

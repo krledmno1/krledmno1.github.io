@@ -1,0 +1,10 @@
+@article{MRDBSKDT24,
+  author    = {Martin Raszyk and David Basin and Sr{\dj}an Krsti{\'c} and Dmitriy Traytel},
+  title        = {Efficient Evaluation of Arbitrary Relational Calculus Queries},
+  journal      = {Log. Methods Comput. Sci.},
+  volume       = {},
+  number       = {},
+  year         = {2024},
+  url          = {},
+  doi          = {},
+}
