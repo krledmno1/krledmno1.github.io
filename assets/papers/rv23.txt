@@ -4,10 +4,10 @@
   title     = {Metric First-order Temporal Logic with Complex Data Types},
   booktitle    = {23nd International Conference on Runtime Verification ({RV})}
   series       = {Lecture Notes in Computer Science},
-  volume       = {},
+  volume       = {14245},
   pages        = {126--147},
   publisher    = {Springer},
   year         = {2023},
-  url          = {},
-  doi          = {},
+  url          = {https://doi.org/10.1007/978-3-031-44267-4\_7},
+  doi          = {10.1007/978-3-031-44267-4\_7},
 }

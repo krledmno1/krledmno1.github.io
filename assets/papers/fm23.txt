@@ -3,8 +3,12 @@
 Ter-Gabrielyan},
   editor    = {Joost-Pieter Katoen and Marsha Chechik},
   title     = {Monitoring the Internet Computer},
-  booktitle = {Formal Methods - 25th International Symposium, {FM}},
+  booktitle = {25th International Symposium on Formal Methods ({FM})},
   series    = {Lecture Notes in Computer Science},
+  volume    = {14000},
+  pages     = {383--402},
   publisher = {Springer},
   year      = {2023},
+  url       = {https://doi.org/10.1007/978-3-031-27481-7\_22},
+  doi       = {10.1007/978-3-031-27481-7\_22},
 }

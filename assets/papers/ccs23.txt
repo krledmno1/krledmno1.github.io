@@ -4,10 +4,9 @@
   title     = {Is Modeling Access Control Worth It?},
   booktitle    = {{ACM} {SIGSAC} Conference on Computer and
                   Communications Security, {CCS}}
-  volume       = {},
-  pages        = {},
+  pages        = {2830--2844},
   publisher    = {{ACM}},
   year         = {2023},
-  url          = {},
-  doi          = {},
+  url          = {https://doi.org/10.1145/3576915.3623196},
+  doi          = {10.1145/3576915.3623196},
 }

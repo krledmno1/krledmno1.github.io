@@ -5,10 +5,10 @@
   booktitle    = {20th International
                   Symposium on Automated Technology for Verification and Analysis ({ATVA}) 2023},
   series       = {Lecture Notes in Computer Science},
-  volume       = {},
-  pages        = {},
+  volume       = {14215},
+  pages        = {3--30},
   publisher    = {Springer},
   year         = {2023},
-  url          = {},
-  doi          = {},
+  url          = {https://doi.org/10.1007/978-3-031-45329-8\_1},
+  doi          = {10.1007/978-3-031-45329-8\_1},
 }

@@ -5,6 +5,10 @@
   booktitle = {27th European Symposium on Research
                in Computer Security ({ESORICS})},
   series    = {LNCS},
+  volume    = {13555},
+  pages     = {211--232},
   publisher = {Springer},
   year      = {2022},
+  url       = {https://doi.org/10.1007/978-3-031-17146-8\_11},
+  doi       = {10.1007/978-3-031-17146-8\_11},
 }
