@@ -1,0 +1,8 @@
+@misc{hublet2024enforceable,
+      title={Towards an Enforceable GDPR Specification}, 
+      author={François Hublet and Alexander Kvamme and Srđan Krstić},
+      year={2024},
+      eprint={2402.17350},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
