@@ -34,12 +34,20 @@ Information Security Group  <br/>
 &nbsp; 
 {% endfor %}
 
-As of May 2020, I am a senior researcher (Oberassistent) in the [Information Security group](https://infsec.ethz.ch) led by prof. [David Basin](https://www.inf.ethz.ch/personal/basin/) at [ETH Zürich](https://ethz.ch/en.html). Previously I was a postdoctoral researcher in the same group. I have obtained my PhD in 2016 at the [DeepSE research group](http://deepse.dei.polimi.it/) at [Politecnico di Milano](https://www.polimi.it/en) under prof. [Carlo Ghezzi](http://home.deib.polimi.it/ghezzi/)'s supervision. I have obtained my BSc degree in Electrical Engineering and Computer Science at the [Faculty of Electronic Engineering Niš](https://www.elfak.ni.ac.rs/en/) and my MSc degree in Engineering Computing Systems at Politecnico di Milano. 
-My main research interests include developing techniques and methodologies that enable specification and verification of complex software systems. 
+As of May 2020, I am a senior researcher (Oberassistent) in the [Information Security
+Group](https://infsec.ethz.ch) led by Prof. [David Basin](https://www.inf.ethz.ch/personal/basin/)
+at [ETH Zürich](https://ethz.ch/en.html). Previously, I was a postdoctoral researcher in the same
+group. I earned my PhD in 2016 at the [DeepSE Research Group](http://deepse.dei.polimi.it/) at
+[Politecnico di Milano](https://www.deib.polimi.it/eng/home-page), under the supervision of Prof. [Carlo
+Ghezzi](http://home.deib.polimi.it/ghezzi/). I hold a BSc degree in Electrical Engineering and Computer
+Science from the [University of Niš](https://www.elfak.ni.ac.rs/en/), and an MSc degree in
+Engineering Computing Systems from Politecnico di Milano.
 
-Students interested in these fields are welcome to send me an email.
+My primary research interests are in developing techniques and methodologies for the specification and verification of complex software systems.
 
-As for my first name: Srđan (or variants: Srdjan, Srdan) - I'm aware that some people have problems pronouncing it and I admit - it's a bit of a tongue twister. One solution is to use the (much easier) italian version: Sergio, the other is to practice (IPA: /Srd͡ʑan/): 
+Students interested in these areas are welcome to contact me via email.
+
+My first name is Srđan (also spelled Srdjan or Srdan). Its pronunciation can be tricky, and I admit it’s a bit of a tongue twister. If you prefer, you can use the Italian version I like—Sergio—which is much easier to pronounce. Otherwise, feel free to practice the original pronunciation (IPA: /Srd͡ʑan/):
 <audio controls="controls">
   <source src="/assets/audio/srdjan.ogg" type="audio/ogg">
   <source src="/assets/audio/srdjan.wav" type="audio/wav">

@@ -1,0 +1,13 @@
+@inproceedings{Hublet2025,
+  author    = {Fran\c{c}ois Hublet and David Basin and Linda Hu and Sr{\dj}an Krsti{\'c} and Lennard Reese},
+  editor    = {},
+  title     = {Instrumenting Runtime Enforcement},
+  booktitle    = {25nd International Conference on Runtime Verification ({RV})}
+  series       = {Lecture Notes in Computer Science},
+  volume       = {},
+  pages        = {},
+  publisher    = {Springer},
+  year         = {2025},
+  url          = {},
+  doi          = {},
+}

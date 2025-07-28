@@ -1,0 +1,14 @@
+@misc{hublet2025enforcement,
+      title={Scaling Up Proactive Enforcement}, 
+      author={François Hublet and Leonardo Lima and David Basin and Srđan Krstić and Dmitriy
+      Traytel},
+      editor       = {Ružica Piskac and Zvonimir Rakamarić},
+      year         = {2025},
+      volume       = {15933},
+      pages        = {370–392},
+      booktitle    = {37th International Conference on Computer Aided Verification ({CAV})},
+      series       = {Lecture Notes in Computer Science},
+      publisher    = {Springer},
+      url          = {https://doi.org/10.1007/978-3-031-98682-6\_19},
+      doi          = {10.1007/978-3-031-98682-6\_19},
+}

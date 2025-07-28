@@ -29,6 +29,9 @@ layout: default
   {%- if page.slides -%}
   <span><a href="{{ page.slides }}"><img src="/assets/images/slides.png" width="50"></a>    </span>
   {%- endif -%}
+  {%- if page.extended -%}
+  <span><a href="{{ page.extended }}"><img src="/assets/images/extended.png" width="50"></a>    </span>
+  {%- endif -%}
   {%- if page.doi -%}
   <span><a href="{{ page.doi }}"><img src="/assets/images/doi.png" width="50"></a>    </span>
   {%- endif -%}
