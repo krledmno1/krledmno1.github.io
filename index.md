@@ -18,7 +18,7 @@ Institute of Information Security  <br/>
 Information Security Group  <br/>
 </p>
 
-<img src="/assets/images/me.jpg" alt="Srdan Krstic" width="25%" style="float: right"/>
+<img src="/assets/images/me.jpeg" alt="Srdan Krstic" width="25%" style="float: right"/>
 
 <p style="width: 80%">
 🚪 <a href="https://ethz.ch/en/utils/location.html?building=CNB&floor=F&room=109.2"> CNB F 109.2 </a> <br/>

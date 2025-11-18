@@ -16,11 +16,24 @@ layout: default
       <h3>{{ year }}</h3>
         {%- for post in site.posts -%}
         <li>
-            {%- if post.year==year and post.draft==page.drafts -%}
+            {%- if post.year==year  -%}
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
             <h4>
-              <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="post-meta" itemprop="name">{{ post.authors | escape }}</span> &nbsp; <span style="color: black; font-size:small; border-radius: 25px;
-              border: 1px solid black; padding: 3px; white-space:nowrap">  {{ post.venue }} </span></span>
+              <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                <span class="post-meta" itemprop="name">{{ post.authors | escape }}</span> &nbsp; 
+                {%- if post.venue == "conference paper" -%}
+                  {%- assign venue_color = "lightblue" -%}
+                {%- elsif post.venue == "journal paper" -%}
+                  {%- assign venue_color = "lightpink" -%}
+                {%- elsif post.venue == "workshop paper" -%}
+                  {%- assign venue_color = "lightgray" -%}
+                {%- elsif post.venue == "thesis" -%}
+                  {%- assign venue_color = "yellow" -%}
+                {%- else -%}
+                  {%- assign venue_color = "burlywood" -%}
+                {%- endif -%}
+                <span style="background-color: {{ venue_color }}; color: black; font-size:small; border-radius: 25px; border: 1px solid black; padding: 3px; white-space:nowrap">  {{ post.venue }} </span>
+              </span>
               <a class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title | escape }} 
               </a> 

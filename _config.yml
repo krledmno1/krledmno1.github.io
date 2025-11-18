@@ -21,25 +21,25 @@ minima:
     researchgate: Srdan_Krstic2
     dblp: Krstic:Srdan
     linkedin: srdankrstic
-    # instagram: krledmno1
-    # facebook: srdjan.krstic
-    # rss: rss
-    # dribbble: jekyll
-    # flickr:   jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
+    # instagram: 
+    # facebook: 
+    # rss: 
+    # dribbble:
+    # flickr: 
+    # pinterest: 
+    # youtube: 
+    # youtube_channel: 
+    # youtube_channel_name: 
+    # telegram: 
+    # googleplus: 
+    # microdotblog: 
 
     # Mastodon instances
     # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+    # - username: 
+    #   instance: 
+    # - username: 
+    #   instance: 
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up

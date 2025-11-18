@@ -3,7 +3,6 @@ layout: home
 title: Publications
 permalink: /publications/
 
-drafts: false
 
 
 years:
