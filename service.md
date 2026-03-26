@@ -15,9 +15,47 @@ Below is a list of students I (co)supervised and a list of events I organized, p
 
 ### Students 
 
+
+
+- Andrei Cotor <br>
+  **Process Permissions and Data Subject Rights in νActionGUI**
+  (Semester project)
+
+- Roman Fischer <br>
+  **Security Type Annotations for Hybrid Information Flow Control**
+  (MSc thesis)
+
+- Colin Pfingstl <br>
+  **Program Transformer for Hybrid Information Flow Control**
+  (MSc thesis)
+
+- Zijing Yin <br>
+  **Real-time Linux Kernel Monitoring**
+  (PhD thesis)
+
+- Sofie Daniels <br>
+  **Secure and Privacy–aware Object Relational Mappers**
+  (MSc thesis)
+
 - Alexander Kvamme <br>
   **A Formal, Comprehensive, and Enforceable GDPR Specification**
   (MSc thesis)
+
+- Sven Wey <br>
+  **Log Generation from Source Code with LLMs**
+  (BSc thesis)
+
+- Daniel Galan: <br>
+  **Hybrid Information-flow Control**
+  (PhD thesis) 
+
+- Linda Hu <br>
+  **Proactive Real-time Enforcement with WhyEnf**
+  (BSc thesis)
+
+- Raymond Nasr <br>
+  **νActionGUI**
+  (Semester project)
 
 - Jeniffer Lima Graf <br>
   **Signature Inference for Monitoring Structured Logs**
@@ -115,8 +153,11 @@ Below is a list of students I (co)supervised and a list of events I organized, p
   **HyperSpark: A Framework for Parallel Execution of Meta-heuristic Algorithms**
   (MSc thesis)
 
-### Events
+### Conference and Journal Service
 
+I serve as an associate editor for the [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24) journal.
+
+- [ASE26](https://conf.researchr.org/home/ase-2026) (PC member)
 - [FormaliSE21](https://www.formalise.org/) (PC member)
 - [OOPSLA20 - Artifact evaluation](https://2020.splashcon.org/track/splash-2020-oopsla) (AEC member)
 - [FormaliSE20](https://www.formalise.org/) (Organizer)

@@ -11,32 +11,52 @@ permalink: /teaching/
 
 ---
 
+### University of Copenhagen (2026 - present)
+- Software Development (Softwareudvikling):
+[Spring 2027](https://kurser.ku.dk/course/ndab15011u/2026-2027) **(Lecturer)**  
+
+
 ### ETH Zürich (2017 - present)
-- Parallel Programming:  
-[Spring 2017](https://www.sri.inf.ethz.ch/teaching/pp2017) **(TA)**, 
-[Spring 2018](https://www.sri.inf.ethz.ch/teaching/pp2018) **(TA)**;
 - Security Engineering:  
-[Fall 2017](https://infsec.ethz.ch/education/as2017/seceng.html) **(TA)**, 
-[Fall 2018](https://infsec.ethz.ch/education/as2018/seceng.html) **(Head TA)**, 
+[Fall 2017](https://infsec.ethz.ch/education/as2017/seceng.html) 
+**(TA)**, 
+[Fall 2018](https://infsec.ethz.ch/education/as2018/seceng.html) 
+**(Head TA)**, 
 [Fall 2019](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2019W&ansicht=ALLE&lerneinheitId=132738&lang=en)
 **(Lecturer)**, 
 [Fall 2020](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2020W&ansicht=ALLE&lerneinheitId=141181&lang=en)
 **(Lecturer)**, 
-[Fall 2021](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021W&ansicht=ALLE&lerneinheitId=148048&lang=en) **(Lecturer)**,
-[Fall 2022](https://infsec.ethz.ch/education/as2022/seceng.html) **(Head TA)**;
-- Formal Methods and Functional Programming:  
-[Spring 2019](https://infsec.ethz.ch/education/ss2019/fmfp.html) **(TA)**, 
-[Spring 2020](https://infsec.ethz.ch/education/ss2020/fmfp.html) **(TA)**;
+[Fall 2021](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021W&ansicht=ALLE&lerneinheitId=148048&lang=en) 
+**(Lecturer)**,
+[Fall 2022](https://infsec.ethz.ch/education/as2022/seceng.html) 
+**(Head TA)**,
+[Fall 2023](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023W&ansicht=ALLE&lerneinheitId=148048&lang=en) **(Lecturer)**,
+[Fall 2024](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2024W&ansicht=ALLE&lerneinheitId=182019&) **(Lecturer)**,
+[Fall 2025](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2025W&ansicht=ALLE&lerneinheitId=192865&lang=en) **(Lecturer)**,
+[Fall 2026]() **(Lecturer)**
+
+
 - Formal Methods for Information Security:  
 [Spring 2020](https://infsec.ethz.ch/education/ss2020/fmsec.html) **(Invited Lecturer)**, 
 [Spring 2021](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=149826&semkez=2021S&ansicht=KATALOGDATEN&lang=en)
 **(Lecturer)**, 
 [Spring 2022](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022S&ansicht=ALLE&lerneinheitId=158289&lang=en)
-**(Lecturer)**;
+**(Lecturer)**
+
 - Information Security:  
 [Spring 2021](https://infsec.ethz.ch/education/ss2021/infsec.html) **(TA)**,
 [Spring 2022](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022S&ansicht=ALLE&lerneinheitId=157666&lang=en)
-**(Lecturer)**.
+**(Lecturer)**
+
+- Formal Methods and Functional Programming:  
+[Spring 2019](https://infsec.ethz.ch/education/ss2019/fmfp.html) **(TA)**, 
+[Spring 2020](https://infsec.ethz.ch/education/ss2020/fmfp.html) **(TA)**
+
+
+- Parallel Programming:  
+[Spring 2017](https://www.sri.inf.ethz.ch/teaching/pp2017) **(TA)**, 
+[Spring 2018](https://www.sri.inf.ethz.ch/teaching/pp2018) **(TA)**;
+
 
 ### Politecnico di Milano (2014 - 2016)
 - [Theoretical Computer Science](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=596267&polij_device_category=DESKTOP&__pj0=0&__pj1=3262c12be47152d6ece37207fcaebe33)
