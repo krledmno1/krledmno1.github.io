@@ -8,34 +8,48 @@
 layout: page 
 ---
 
-<img src="/assets/images/me.jpeg" alt="Srdan Krstic" width="25%" style="float: right"/>
 
-<img src="/assets/images/cph.png" alt="UCPH" width="35%"/>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
+  <div style="flex: 1 1 320px; max-width: 48%; display: flex; flex-direction: column; align-items: flex-start;"> 
+    <img src="/assets/images/cph.png" alt="UCPH" style="height: 90px; width: auto; max-width: 100%;"/>
+    <p style="font-size: calc(7px + .5vw); text-align: left;">
+    Department of Computer Science <br/>
+    Software, Data, People & Society  <br/>
+    </p>
+  </div>
+
+  <div style="flex: 1 1 320px; max-width: 48%; display: flex; flex-direction: column; align-items: flex-end;">
+    <img src="/assets/images/logo-ethz.png" alt="ETH Zürich" style="margin-top: 33px; margin-bottom: 20px; width: 65%; height: auto; max-width: 100%;"/>
+    <p style="font-size: calc(7px + .5vw); text-align: right;">
+    Department of Computer Science <br/>
+    Information Security Group  <br/>
+    </p>
+  </div>
+</div>
 
 
-<p style="font-size: calc(7px + .5vw)">
-&nbsp;  Department of Computer Science <br/>
-&nbsp;  Software, Data, People & Society  <br/>
-</p>
+<img src="/assets/images/me.jpeg" alt="Srdan Krstic" width="23%" style="float: right"/>
 
 
 
 <p style="width: 80%">
-<!-- 🚪 <a href="https://ethz.ch/en/utils/location.html?building=CNB&floor=F&room=109.2"> CNB F 109.2 </a> <br/>
-📮 Universitätstrasse 6  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8092 Zürich  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Switzerland  <br/> 
-📞 +41 44 632 93 28  <br/> -->
-&nbsp; 📧 <a href="https://mailhide.io/e/ZcpTv" onclick="mailhidepopup=window.open('https://mailhide.io/e/ZcpTv','mailhidepopup','width=580,height=635'); return false;">s......@inf.ethz.ch</a> (Work) <a href="assets/ethz.asc"> PGP Key </a> <br/>
-&nbsp; 📧  <a href="https://mailhide.io/e/Kf8r5" onclick="mailhidepopup=window.open('https://mailhide.io/e/Kf8r5','mailhidepopup','width=580,height=635'); return false;">k......@gmail.com</a> (Personal) <a href="assets/gmail.asc" target="_self"> PGP Key </a> <br/>
+🚪 02.1.H.128 <br/>
+📮 Jagtvej 155A, 2200 København N  <br/>
+🚪 <a href="https://ethz.ch/en/utils/location.html?building=CNB&floor=F&room=109.2"> CNB F 109.2 </a> <br/>
+📮 Universitätstrasse 6, 8092 Zürich  <br/>
+<br/> 
+📧 <a href="https://mailhide.io/e/97qjw33x" onclick="mailhidepopup=window.open('https://mailhide.io/e/97qjw33x','mailhidepopup','width=580,height=635'); return false;">s......@di.ku.dk</a> (UCPH)  <a href="assets/ucph.asc"> PGP Key </a> <br/>
+📧 <a href="https://mailhide.io/e/ZcpTv" onclick="mailhidepopup=window.open('https://mailhide.io/e/ZcpTv','mailhidepopup','width=580,height=635'); return false;">s......@inf.ethz.ch</a> (ETHZ) <a href="assets/ethz.asc"> PGP Key </a> <br/>
+📧  <a href="https://mailhide.io/e/Kf8r5" onclick="mailhidepopup=window.open('https://mailhide.io/e/Kf8r5','mailhidepopup','width=580,height=635'); return false;">k......@gmail.com</a> (Personal) <a href="assets/gmail.asc" target="_self"> PGP Key </a> <br/>
 </p>
 
-&nbsp; 
+<br/>
 
-As of May 2026, I am an Associate Professor in the [Department of Computer
-Science](https://di.ku.dk/english/) at the [University of Copenhagen](https://www.ku.dk/english/). I
-am also a lecturer at [ETH Zürich](https://ethz.ch/en.html), where I was previously a senior
-researcher (Oberassistent) in the [Information Security Group](https://infsec.ethz.ch) led by Prof.
+As of May 2026, I am an Associate Professor at the [Department of Computer
+Science](https://di.ku.dk/english/) at the [University of Copenhagen](https://www.ku.dk/english/)
+and a lecturer at the [Department of Computer Science](https://inf.ethz.ch) at [ETH Zürich](https://ethz.ch/en/).
+
+Previously, I was a senior researcher (Oberassistent) and a lecturer in the [Information Security Group](https://infsec.ethz.ch) led by Prof.
 [David Basin](https://www.inf.ethz.ch/personal/basin/). I earned my PhD in 2016 at the [DeepSE
 Research Group](http://deepse.dei.polimi.it/) at
 [Politecnico di Milano](https://www.deib.polimi.it/eng/home-page), under the supervision of Prof. [Carlo

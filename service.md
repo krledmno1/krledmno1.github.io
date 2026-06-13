@@ -15,7 +15,9 @@ Below is a list of students I (co)supervised and a list of events I organized, p
 
 ### Students 
 
-
+- Andrei Cotor <br>
+  **Formal Reasoning for Data Protection**
+  (MSc thesis)
 
 - Andrei Cotor <br>
   **Process Permissions and Data Subject Rights in νActionGUI**
@@ -147,7 +149,7 @@ Below is a list of students I (co)supervised and a list of events I organized, p
 
 - Joshua Schneider:  <br>
   **Scalable and Trustworthy Monitoring**
-  (Phd thesis)
+  (PhD thesis)
 
 - Nemanja Stolić: <br>
   **HyperSpark: A Framework for Parallel Execution of Meta-heuristic Algorithms**
@@ -155,7 +157,7 @@ Below is a list of students I (co)supervised and a list of events I organized, p
 
 ### Conference and Journal Service
 
-I serve as an associate editor for the [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24) journal.
+I served as an associate editor for the [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24) journal.
 
 - [ASE26](https://conf.researchr.org/home/ase-2026) (PC member)
 - [FormaliSE21](https://www.formalise.org/) (PC member)
