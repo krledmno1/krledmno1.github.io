@@ -8,9 +8,46 @@
 layout: page 
 ---
 
+<style>
+  .affiliation-logos {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
-  <div style="flex: 1 1 320px; max-width: 48%; display: flex; flex-direction: column; align-items: flex-start;"> 
+  .affiliation-logos .logo-col {
+    flex: 1 1 320px;
+    max-width: 48%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .affiliation-logos .logo-col-left {
+    align-items: flex-start;
+  }
+
+  .affiliation-logos .logo-col-right {
+    align-items: flex-end;
+  }
+
+  @media (max-width: 700px) {
+    .affiliation-logos {
+      flex-wrap: nowrap;
+    }
+
+    .affiliation-logos .logo-col {
+      flex: 1 1 0;
+      min-width: 0;
+      max-width: 48%;
+    }
+  }
+</style>
+
+
+<div class="affiliation-logos">
+  <div class="logo-col logo-col-left"> 
     <img src="/assets/images/cph.png" alt="UCPH" style="height: 90px; width: auto; max-width: 100%;"/>
     <p style="font-size: calc(7px + .5vw); text-align: left;">
     Department of Computer Science <br/>
@@ -18,7 +55,7 @@ layout: page
     </p>
   </div>
 
-  <div style="flex: 1 1 320px; max-width: 48%; display: flex; flex-direction: column; align-items: flex-end;">
+  <div class="logo-col logo-col-right">
     <img src="/assets/images/logo-ethz.png" alt="ETH Zürich" style="margin-top: 33px; margin-bottom: 20px; width: 65%; height: auto; max-width: 100%;"/>
     <p style="font-size: calc(7px + .5vw); text-align: right;">
     Department of Computer Science <br/>
