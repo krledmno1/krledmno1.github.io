@@ -98,7 +98,10 @@ My primary research interests lie in developing techniques and methodologies for
 
 Students interested in these areas are welcome to contact me via email.
 
-My first name is Srđan (also spelled Srdjan or Srdan). Its pronunciation can be tricky, and I admit it’s a bit of a tongue twister. If you prefer, you can use the Italian version I like—Sergio—which is much easier to pronounce. Otherwise, feel free to practice the original pronunciation (IPA: /Srd͡ʑan/):
+My name is Srđan Krstić (also spelled Srdjan Krstic, Srdan Krstic, or Срђан Крстић). It can 
+be tricky to pronounce. If you prefer, you can use the 
+Italian version "Sergio", which is arguably much easier on your tongue. Otherwise, feel free
+to practice (IPA: /Srd͡ʑan/):
 <audio controls="controls">
   <source src="/assets/audio/srdjan.ogg" type="audio/ogg">
   <source src="/assets/audio/srdjan.wav" type="audio/wav">
