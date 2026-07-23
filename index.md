@@ -94,7 +94,8 @@ Ghezzi](http://home.deib.polimi.it/ghezzi/). I hold a BSc degree in Electrical E
 Science from the [University of Niš](https://www.elfak.ni.ac.rs/en/), and an MSc degree in
 Engineering Computing Systems from Politecnico di Milano.
 
-My primary research interests lie in developing techniques and methodologies for the specification and verification of complex software systems.
+My primary research interests lie in developing techniques and methodologies for the specification
+and verification of complex software systems.
 
 Students interested in these areas are welcome to contact me via email.
 
