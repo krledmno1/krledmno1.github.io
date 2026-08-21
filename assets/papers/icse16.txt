@@ -8,8 +8,7 @@
                Willem Visser and
                Laurie Williams},
   title     = {Efficient large-scale trace checking using mapreduce},
-  booktitle = {Proceedings of the 38th International Conference on Software Engineering,
-               {ICSE} 2016, Austin, TX, USA, May 14-22, 2016},
+  booktitle = {38th International Conference on Software Engineering {(ICSE)}},
   pages     = {888--898},
   publisher = {{ACM}},
   year      = {2016},

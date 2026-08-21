@@ -3,9 +3,9 @@
   editor    = {},
   title     = {Instrumenting Runtime Enforcement},
   booktitle    = {25nd International Conference on Runtime Verification ({RV})}
-  series       = {Lecture Notes in Computer Science},
+  series       = {LNCS},
   volume       = {},
-  pages        = {},
+  pages        = {160--180},
   publisher    = {Springer},
   year         = {2025},
   url          = {},

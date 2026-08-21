@@ -6,9 +6,8 @@
   editor    = {Bernd Finkbeiner and
                Leonardo Mariani},
   title     = {A Formally Verified Monitor for Metric First-Order Temporal Logic},
-  booktitle = {Runtime Verification - 19th International Conference, {RV} 2019, Porto,
-               Portugal, October 8-11, 2019, Proceedings},
-  series    = {Lecture Notes in Computer Science},
+  booktitle = {19th International Conference on Runtime Verification {(RV)}},
+  series    = {LNCS},
   volume    = {11757},
   pages     = {310--328},
   publisher = {Springer},

@@ -5,9 +5,9 @@
                Klaus Havelund},
   title     = {On the Risk of Tool Over-tuning in Run-time Verification Competitions
                (position paper)},
-  booktitle = {RV-CuBES 2017. An International Workshop on Competitions, Usability,
+  booktitle = {An International Workshop on Competitions, Usability,
                Benchmarks, Evaluation, and Standardisation for Runtime Verification
-               Tools, September 15, 2017, Seattle, WA, {USA}},
+               Tools {(RV-CuBES)}},
   series    = {Kalpa Publications in Computing},
   volume    = {3},
   pages     = {37--40},

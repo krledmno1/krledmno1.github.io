@@ -7,11 +7,10 @@
   editor    = {Stefania Gnesi and
                Arend Rensink},
   title     = {SMT-Based Checking of {SOLOIST} over Sparse Traces},
-  booktitle = {Fundamental Approaches to Software Engineering - 17th International
-               Conference, {FASE} 2014, Held as Part of the European Joint Conferences
-               on Theory and Practice of Software, {ETAPS} 2014, Grenoble, France,
-               April 5-13, 2014, Proceedings},
-  series    = {Lecture Notes in Computer Science},
+  booktitle = {17th International
+               Conference on Fundamental Approaches to Software Engineering {(FASE)}, Held as Part
+               of the European Joint Conferences on Theory and Practice of Software {(ETAPS)}},
+  series    = {LNCS},
   volume    = {8411},
   pages     = {276--290},
   publisher = {Springer},

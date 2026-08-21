@@ -71,7 +71,7 @@ layout: page
 
 <p style="width: 80%">
 🚪 02.1.H.128 <br/>
-📮 Jagtvej 155A, 2200 København N  <br/>
+📮 Rådmandsgade 64, 2200 København N  <br/>
 🚪 <a href="https://ethz.ch/en/utils/location.html?building=CNB&floor=F&room=109.2"> CNB F 109.2 </a> <br/>
 📮 Universitätstrasse 6, 8092 Zürich  <br/>
 <br/> 

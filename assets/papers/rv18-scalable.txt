@@ -7,9 +7,8 @@
   editor    = {Christian Colombo and
                Martin Leucker},
   title     = {Scalable Online First-Order Monitoring},
-  booktitle = {Runtime Verification - 18th International Conference, {RV} 2018, Limassol,
-               Cyprus, November 10-13, 2018, Proceedings},
-  series    = {Lecture Notes in Computer Science},
+  booktitle = {18th International Conference on Runtime Verification {(RV)}},
+  series    = {LNCS},
   volume    = {11237},
   pages     = {353--371},
   publisher = {Springer},

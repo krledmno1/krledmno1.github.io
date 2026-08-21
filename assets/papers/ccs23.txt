@@ -3,7 +3,7 @@
   editor    = {Cas Cremers and Engin Kirda},
   title     = {Is Modeling Access Control Worth It?},
   booktitle    = {{ACM} {SIGSAC} Conference on Computer and
-                  Communications Security, {CCS}}
+                  Communications Security {(CCS)}}
   pages        = {2830--2844},
   publisher    = {{ACM}},
   year         = {2023},

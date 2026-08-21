@@ -7,7 +7,7 @@
       volume       = {15933},
       pages        = {370–392},
       booktitle    = {37th International Conference on Computer Aided Verification ({CAV})},
-      series       = {Lecture Notes in Computer Science},
+      series       = {LNCS},
       publisher    = {Springer},
       url          = {https://doi.org/10.1007/978-3-031-98682-6\_19},
       doi          = {10.1007/978-3-031-98682-6\_19},

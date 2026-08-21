@@ -10,9 +10,8 @@
                Malolan Chetlur and
                Michael Bauer},
   title     = {Towards the formalization of properties of cloud-based elastic systems},
-  booktitle = {Proceedings of the 6th International Workshop on Principles of Engineering
-               Service-Oriented and Cloud Systems, {PESOS} 2014, Hyderabad, India,
-               May 31, 2014},
+  booktitle = {6th International Workshop on Principles of Engineering
+               Service-Oriented and Cloud Systems {(PESOS)}},
   pages     = {38--47},
   publisher = {{ACM}},
   year      = {2014},

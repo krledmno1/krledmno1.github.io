@@ -11,8 +11,7 @@
                Katsunori Oyama},
   title     = {HyperSpark: {A} Data-Intensive Programming Environment for Parallel
                Metaheuristics},
-  booktitle = {2019 {IEEE} International Congress on Big Data, BigData Congress 2019,
-               Milan, Italy, July 8-13, 2019},
+  booktitle = {2019 {IEEE} International Congress on Big Data},
   pages     = {85--92},
   publisher = {{IEEE}},
   year      = {2019},

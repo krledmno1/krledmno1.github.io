@@ -6,9 +6,8 @@
   editor    = {Christian Colombo and
                Martin Leucker},
   title     = {A Taxonomy for Classifying Runtime Verification Tools},
-  booktitle = {Runtime Verification - 18th International Conference, {RV} 2018, Limassol,
-               Cyprus, November 10-13, 2018, Proceedings},
-  series    = {Lecture Notes in Computer Science},
+  booktitle = {18th International Conference Runtime Verification {(RV)}},
+  series    = {LNCS},
   volume    = {11237},
   pages     = {241--262},
   publisher = {Springer},

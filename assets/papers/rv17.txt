@@ -5,9 +5,8 @@
   editor    = {Shuvendu K. Lahiri and
                Giles Reger},
   title     = {Almost Event-Rate Independent Monitoring of Metric Dynamic Logic},
-  booktitle = {Runtime Verification - 17th International Conference, {RV} 2017, Seattle,
-               WA, USA, September 13-16, 2017, Proceedings},
-  series    = {Lecture Notes in Computer Science},
+  booktitle = {17th International Conference on Runtime Verification {(RV)}},
+  series    = {LNCS},
   volume    = {10548},
   pages     = {85--102},
   publisher = {Springer},

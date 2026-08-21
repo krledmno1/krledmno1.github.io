@@ -1,4 +1,4 @@
-@article{corr/abs-1902-03776,
+@article{abs-1902-03776,
   author    = {Wolfgang Ahrendt and
                Cyrille Artho and
                Christian Colombo and
@@ -19,7 +19,4 @@
   url       = {http://arxiv.org/abs/1902.03776},
   archivePrefix = {arXiv},
   eprint    = {1902.03776},
-  timestamp = {Mon, 18 Nov 2019 10:38:21 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1902-03776.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
 }

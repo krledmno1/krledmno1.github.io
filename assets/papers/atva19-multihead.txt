@@ -7,9 +7,8 @@
                Chih{-}Hong Cheng and
                Javier Esparza},
   title     = {Multi-head Monitoring of Metric Temporal Logic},
-  booktitle = {Automated Technology for Verification and Analysis - 17th International
-               Symposium, {ATVA} 2019, Taipei, Taiwan, October 28-31, 2019, Proceedings},
-  series    = {Lecture Notes in Computer Science},
+  booktitle = {17th International Symposium on Automated Technology for Verification and Analysis {(ATVA)}},
+  series    = {LNCS},
   volume    = {11781},
   pages     = {151--170},
   publisher = {Springer},
